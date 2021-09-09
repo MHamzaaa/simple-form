@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.upper{
+    height: 10vh;
+}
+.container{
+    height: 80vh;
+}
+.lower{
+    width: 10vh;
+}
+
+.one{
+    border: 1px solid black;
+}
